@@ -1,0 +1,1 @@
+mpic++  -std=c++11 -Wall -Wextra -Werror -g CMakeFiles/E332Prod_Interno.dir/E332Prod_Interno.cpp.o -o E332Prod_Interno  -lgsl -lgslcblas -lm 
